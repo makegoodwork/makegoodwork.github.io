@@ -1,8 +1,6 @@
 ## 첫째날
 
 ## 아이디어
-![모임후기](/doc/img/kindwork01.jpg)
-
 <img src="/doc/img/kindwork01.jpg" alt="img" style="width: 450px;"/>
 
 ## 아이디어 : 선행앱
