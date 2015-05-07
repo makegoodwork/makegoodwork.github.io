@@ -1,6 +1,6 @@
-# 선행앱  io
+![대문01](doc/img/main.jpg)
 
-# 선행앱
+### 선행앱 makegoodwork.github.io
 - 우리가 필요한건 선행. 나와 너가 행복해 질수 있는 건 선행컨텐츠뿐
 - 나와 타인이 모두 행복해지는 선행앱
 - 훈훈함이 충만해지는 선행앱
@@ -10,3 +10,6 @@
 - 자극적인 컨텐츠가 많다. 선행 컨텐츠의 비중이 적다
 - 랭킹 시스템 도입으로 좋은 선행 컨텐츠의 점유율을 높인다
 
+### 참고
+- [acamp8 ](https://www.facebook.com/groups/878397718886425/)
+- [HCD 가이드 및 워크샵 툴킷](http://visualcommunication.tistory.com/1316)
