@@ -13,4 +13,3 @@
 
 ## 아이디어 : 아이들에게 즐거움을 주는 서비스
 - <img src="/doc/img/day01_02.jpg" alt="img" style="width: 450px;"/>
-- [장난감앱](https://docs.google.com/file/d/0Bx2HRnvXDiZ5dEltaTVGemt6Yk0/edit)
