@@ -13,3 +13,4 @@
 
 ## 아이디어 : 아이들에게 즐거움을 주는 서비스
 - <img src="/doc/img/day01_02.jpg" alt="img" style="width: 450px;"/>
+- [PDF](https://docs.google.com/file/d/0Bx2HRnvXDiZ5bTNCSGNTTy1nVTg/edit)
