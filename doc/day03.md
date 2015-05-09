@@ -4,4 +4,4 @@
 어떻게 사람들에게 "재미"를 줄 수 있을까
 어떻게 사람들에게 선행을 "자발적"으로 할 수 있게 할까
 
-<img src="/doc/img/day02_01.jpg" alt="img" style="width: 450px;"/>
+<img src="/doc/img/day03_01.jpg" alt="img" style="width: 450px;"/>
