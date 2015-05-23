@@ -10,6 +10,10 @@
 - 자극적인 컨텐츠가 많다. 선행 컨텐츠의 비중이 적다
 - 랭킹 시스템 도입으로 좋은 선행 컨텐츠의 점유율을 높인다
 
-### 참고
+### 링크
+- [play market 선행앱](https://play.google.com/store/apps/details?id=appinventor.ai_makegoodwor.goodthing_m)
 - [acamp8 ](https://www.facebook.com/groups/878397718886425/)
 - [HCD 가이드 및 워크샵 툴킷](http://visualcommunication.tistory.com/1316)
+
+### 안드로이드 apk
+사용성 테스트용 [천사앱 150522](https://drive.google.com/open?id=0Bx2HRnvXDiZ5eDd3aWhTbnVwSFk)

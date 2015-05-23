@@ -9,3 +9,7 @@
 <img src="/doc/img/day05_05.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/day05_06.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/day05_07.jpg" alt="img" style="width: 450px;"/>
+<img src="/doc/img/day05_08.jpg" alt="img" style="width: 450px;"/>
+
+사용성테스트용
+[천사앵 APK 150522](https://drive.google.com/open?id=0Bx2HRnvXDiZ5eDd3aWhTbnVwSFk)
