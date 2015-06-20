@@ -1,4 +1,4 @@
-네째날
+##넷째날
 
 [퍼소나&시나리오&유저여정맵 PDF](https://docs.google.com/file/d/0Bx2HRnvXDiZ5NzN2dy1jb0JfZnM)
 
