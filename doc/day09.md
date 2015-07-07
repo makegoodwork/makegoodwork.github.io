@@ -8,5 +8,5 @@
 [](http://youtu.be/-i8o-i65JSM)
 
 기능소개영상
-[](http://youtu.be/DdTKSArLT_U)
+[](https://youtu.be/wkPu5U1dF5M)
 
